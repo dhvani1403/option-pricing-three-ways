@@ -1,0 +1,7 @@
+- Snapshot: 2026-10-30 close, SPX = 7,580.07
+- Contracts in raw chain: 16,351; after cleaning: 2,660 implied vols across 38 expiries
+- Risk-free rate (13-week T-bill, continuous): 4.049%
+- Carry r − q from put–call parity (27 expiries): 3.048%, so implied dividend yield q = 1.001%
+- SVI fitted to 34 expiries; median fit error 0.68 vol points, worst 1.38
+- ATM vol ranges 15.1%–17.4%; ATM skew dσ/dk ranges -1.55 to -0.27; power-law fit |skew| ∝ T^(−0.45)
+- Calendar-arbitrage check: total variance decreases with T in 9.3% of adjacent-expiry comparisons (5.0% beyond one month)
